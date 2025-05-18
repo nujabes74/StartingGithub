@@ -1,1 +1,1 @@
-# starting-github
+# StratingGithub
